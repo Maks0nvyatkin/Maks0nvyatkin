@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maks0nvyatkin
 - 👀 I’m interested in ... progamming
-- 🌱 I’m currently learning ... russian
+- 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ... it akademy TOP
 - 📫 How to reach me ...
 
